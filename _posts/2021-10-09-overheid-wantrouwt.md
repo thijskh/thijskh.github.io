@@ -2,7 +2,7 @@
 title: 'Wie de overheid wantrouwt, haalt geen vaccin'
 date: 2021-10-09
 permalink: /posts/2021/09/overheid-wantrouwt/
-tags:
+categories:
   - coronacrisis
 ---
 
