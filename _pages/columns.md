@@ -9,10 +9,10 @@ Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Tr
 
 
 {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    ## {{ category_name }}
+{% capture category_name %}{{ category | first }}{% endcapture %}
+## {{ category_name }}
 
-    {% for post in site.categories[category_name] %}
-    {{ post.date }}: [{{post.title}}]({{post.url}})
-    {% endfor %}
+{% for post in site.categories[category_name] %}
+{{ post.date }}: [{{post.title}}]({{post.url}})
+{% endfor %}
 {% endfor %}
