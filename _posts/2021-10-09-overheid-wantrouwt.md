@@ -1,12 +1,12 @@
 ---
 title: 'Wie de overheid wantrouwt, haalt geen vaccin'
 date: 2021-10-09
-permalink: /posts/2021/09/overheid-wantrouwt/
+permalink: /columns/2021/10/overheid-wantrouwt/
+collection: columns
+venue: Trouw
 categories:
-  - coronacrisis
+  - Coronacrisis
 ---
-
-_Verschenen in_ Trouw_, 9 oktober 2021_
 
 In juli werd Dilay Willemstein uit Eindhoven gekroond tot Miss World Nederland. Deze week gaf ze haar kroontje terug, omdat ze zich nog niet wil laten vaccineren tegen Covid-19. Vaccinatie is verplicht voor de belangrijkste taak van Miss World Nederland: meedoen aan de Miss World Verkiezingen, dit jaar in Puerto Rico. Maar Willemstein is, zo liet ze op Instagram weten, “er nog niet klaar voor om de prik te nemen. Ik voel me er niet goed bij.”
 
