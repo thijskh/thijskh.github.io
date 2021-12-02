@@ -5,6 +5,8 @@ title: "Columns"
 author_profile: true
 ---
 
+Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Trouw_](https://www.trouw.nl/auteur/hieke-huistra).
+
 {% for post in site.posts %}
 
 * _{{ post.date | date: '%Y-%m-%d' }}_: {{ post.excerpt }}
