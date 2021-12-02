@@ -13,6 +13,8 @@ Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Tr
 ## {{ category_name }}
 
 {% for post in site.categories[category_name] %}
-{{ post.date }}: [{{post.title}}]({{post.url}})
+{{ post.date| date_to_long_string  }}: [{{post.title}}]({{post.url}})
+
 {% endfor %}
+
 {% endfor %}
