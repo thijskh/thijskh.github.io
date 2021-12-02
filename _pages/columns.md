@@ -7,9 +7,12 @@ author_profile: true
 
 Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Trouw_](https://www.trouw.nl/auteur/hieke-huistra).
 
-{% for post in site.posts %}
 
-* _{{ post.date | date: '%Y-%m-%d' }}_: {{ post.excerpt }}
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    ## {{ category_name }}
 
+    {% for post in site.categories[category_name] %}
+    {{ post.date }}: [{{post.title}}]({{post.url}})
+    {% endfor %}
 {% endfor %}
-
