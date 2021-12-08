@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# On anatomical collections
+## On anatomical collections
 
 _The Afterlife of the Leiden Anatomical Collections: Hands On, Hands Off_ (book, Routledge 2019).
 
@@ -25,7 +25,7 @@ with Marieke Hendriksen and Rina Knoeff (all authors contributed equally), “Re
 
 “Weg met pottenkijkers! Hoe het publiek verdween uit het Leids anatomisch kabinet” [“How the Public Disappeared from the Leiden Anatomical Cabinet”], _Negentiende Eeuw_ 34 (2010): 193–208.
 
-# On fatness
+## On fatness
 
 “[Standardizing Slimness: How Body Weight Quantified Beauty in the Netherlands, 1870–1940](https://doi.org/10.1007/978-3-319-91174-8_3)”, in _Beauty and the Norm: Debating Standardization in Bodily Appearance_, edited by Claudia Liebelt, Sarah Böllinger, and Ulf Vierke, 45–72. (Palgrave 2019).
 
@@ -47,7 +47,7 @@ with Bram Mellink, “[Phrasing History: Selecting Sources in Digital Repositori
 
 with Toine Pieters,“Using Digitized Newspaper Archives to Investigate Identity Formation in Long-Term Public Discourse”, in _[Digital Humanities 2014 Book of Abstracts](https://dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf)_ (2014), 210–211.
 
-# Miscellaneous
+## Miscellaneous
 
 H.M. Huistra, “[Vrouwen tellen: lastiger dan het lijkt](http://www.volkskrant.nl/opinie/vrouwen-tellen-lastiger-dan-het-lijkt~a4113715/)“, de Volkskrant, 5 August 2015, p. 20.
 
@@ -57,7 +57,7 @@ H.M. Huistra, T. Cocquyt, H.N. Asper and T. van der Valk, “Proeven van Vroeger
 
 “Weerkunde van weleer: Buys Ballot en zijn wet.” [“Meteorology of Yesteryear: Buys Ballot and His Law”], _Zenit_ 33 (2006), 76–79.
 
-# Book reviews
+## Book reviews
 
 Review of: Jane Maienschein, _Embryos under the Microscope: The Diverging Meanings of Life_, in Isis 106 (2015), 696–697.
 

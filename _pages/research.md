@@ -5,8 +5,9 @@ excerpt: "Hieke Huistra's Research activities"
 author_profile: true
 ---
 
-# Can You Help Me, Doctor?
-## How Patient Requests Changed Birth and Death in the Twentieth Century (current project)
+## Can You Help Me, Doctor?
+
+### How Patient Requests Changed Birth and Death in the Twentieth Century (current project)
 
 In my current research project I investigate how patient requests contribute to
 the medicalization of ‘natural’ life processes such as giving birth, aging and
@@ -16,9 +17,9 @@ below, is funded through an NWO Veni grant. Although my case studies are both
 situated in the Dutch past, the larger questions I ask are certainly not unique
 to the Netherlands or to medical history, and I am keen to collaborate with
 researchers working on similar themes in different places or disciplines – if
-you’re interested, please drop me an e-mail at [h.m.huistra@uu.nl](mailto:h.m.huistra@uu.nl).
+you’re interested, please drop me an e-mail at <h.m.huistra@uu.nl>.
 
-### Project summary
+#### Project summary
 
 A 78-year-old woman shuffles into the doctor’s practice and asks for euthanasia
 because she considers her life completed — how should we respond? Patients
@@ -50,8 +51,9 @@ of life and death. Only if we understand the long-term development and
 consequences of such requests, can we decide how to deal with them — which will
 ultimately determine how we are born and how we die.
 
-# Heavy Matter
-## Fatness and Weight in the Netherlands, 1890–1940
+## Heavy Matter
+
+### Fatness and Weight in the Netherlands, 1890–1940
 
 In this project, a digital humanities postdoc project at Utrecht University, I
 investigated the establishment and consequences of the boundaries between
@@ -71,8 +73,9 @@ for both fatness and health. I also analysed how these objects and practices
 shaped our personal experiences of body weight, especially how we have come to
 experience it more and more as a private matter.
 
-# Preparations on the Move
-## The Leiden Anatomical Collections in the Nineteenth Century (PhD research, 2008–2013)
+## Preparations on the Move
+
+### The Leiden Anatomical Collections in the Nineteenth Century (PhD research, 2008–2013)
 
 In my PhD thesis (Leiden University, 2013) I analyse how medical and non-
 medical audiences engaged with nineteenth-century anatomical collections. I
