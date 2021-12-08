@@ -13,7 +13,7 @@ Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Tr
 ## {{ category_name }}
 
 {% for post in site.categories[category_name] %}
-{% include date-nl.html date=post.date %}, [{{post.title}}]({{post.url}})
+{%- include date-nl.html date=post.date -%}, [{{post.title}}]({{post.url}})
 
 {% endfor %}
 
