@@ -5,9 +5,9 @@ excerpt: "Contact information"
 author_profile: true
 ---
 
-E-mail: h.m.huistra@uu.nl
+E-mail: [h.m.huistra@uu.nl](mailto:h.m.huistra@uu.nl)
 
-Phone number: +31 30 253 5618
+Phone number: [+31 30 253 5618](tel:+31302535618)
 
 ### Visiting address
 
