@@ -6,6 +6,7 @@ collection: columns
 venue: Trouw
 categories:
   - Academisch-bedrijf
+  - Corona
 ---
 
 Ik heb collega’s die nog nooit naar de teststraat geweest zijn. Ik kan me daar niets bij voorstellen, want we hebben hier thuis inmiddels achtenveertig bezoeken gebracht aan zeven verschillende teststraten. (Tip: de beste testlocatie van Utrecht vindt u aan de Neckardreef. Korte rijen, snel resultaat, tot laat open en, voor een teststraat, goede sfeer.) Maar die collega’s hebben geen kleine kinderen, en dan is alles anders.
