@@ -5,7 +5,7 @@ permalink: /columns/2021/05/onder-de-gordel/
 collection: columns
 venue: Trouw
 categories:
-  - Coronacrisis
+  - Corona
 ---
 
 Zelf gebruik ik Twitter vooral als reclamezuil (‘Kijk! ik heb alweer een stukje geschreven!’), maar veel andere wetenschappers zijn er bewonderenswaardig inhoudelijk bezig. Onder hen de nodige virologen, epidemiologen, gedragswetenschappers en andere coronadeskundigen. Die zitten vast niet om werk verlegen in deze dagen (maanden, jaren), maar nemen toch de tijd om adviezen uit te leggen en vragen te beantwoorden. Dat vereist een zekere onverstoorbare blijmoedigheid, want naast waardering en opbouwende kritiek ontvangen ze ook minder opwekkende berichten. Waarom ze niet toegeven dat het virus niet bestaat, de PCR-test niet werkt en het vaccin ons onvruchtbaar maakt. Hoe het voelt dat ze kinderen voor het leven beschadigen. Dat ze lelijk zijn. En dat ze dood moeten.
