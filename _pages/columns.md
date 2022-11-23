@@ -9,9 +9,9 @@ taxonomy: categories
 ## Mijn laatste vijf columns
 
 {% for post in site.posts limit:5 %}
-<h3>[{{post.title}}]({{post.url}}) ({%- include date-nl.html date=post.date -%})</h3>
+<h3><a href="{{post.url}}">{{post.title}}</a> ({%- include date-nl.html date=post.date -%})</h3>
 
-{{post.excerpt}}
+{{post.excerpt}} <a href="{{post.url}}">(lees verder)</a>
 
 {% endfor %}
 
@@ -19,5 +19,5 @@ taxonomy: categories
 
 {% assign categories = site.data.taxonomy['categories'] %}
 {% for category in categories %}
-* **[category.title]({{site.categories[category|first].url}})**
+* **[{{category.title}}]({{site.categories[category].url}})**
 {% endfor %}
