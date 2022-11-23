@@ -1,6 +1,6 @@
 ---
 title: 'Doorwerken tijdens vakanties is de norm'
-date: 
+date: 2019-01-06
 permalink: /columns/2019/01/doorwerken-vakanties-de-norm/
 collection: columns
 venue: Trouw
