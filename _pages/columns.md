@@ -15,7 +15,7 @@ author_profile: true
 
 ## Alle columns per categorie
 
-* **[De coronacrisis]({{site.categories['Corona'].url}})**
-* **[Het academisch bedrijf]({{site.categories['Academisch-bedrijf'].url}})**
-* **[Geboorte & dood]({{site.categories['Geboorte-dood'].url}})**
-* **[Van alles en nog wat]({{site.categories['Alles-nogwat'].url}})**
+* **[De coronacrisis](/categories/#Corona)**
+* **[Het academisch bedrijf](/categories/#Academisch-bedrijf)**
+* **[Geboorte & dood](/categories/#Geboorte-dood)**
+* **[Van alles en nog wat](/categories/#Alles-nogwat)**
