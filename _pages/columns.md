@@ -5,16 +5,21 @@ title: "Columns"
 author_profile: true
 ---
 
-Een tamelijk volledige selectie van mijn columns – zie ook [de website van _Trouw_](https://www.trouw.nl/auteur/hieke-huistra).
+Mijn laatste vijf columns:
 
+{% for post in site.posts limit:5 %}
+[{{post.title}}]({{post.url}}) ({%- include date-nl.html date=post.date -%})
 
-{% for category in site.categories %}
-{% capture category_name %}{{ category | first }}{% endcapture %}
-## {{ category_name }}
-
-{% for post in site.categories[category_name] %}
-{%- include date-nl.html date=post.date -%}, [{{post.title}}]({{post.url}})
+{{post.excerpt}}
 
 {% endfor %}
+
+Bekijk alle columns hier per categorie:
+
+<ul>
+{% for category in site.categories %}
+    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
+{% endfor %}
+</ul>
 
 {% endfor %}
