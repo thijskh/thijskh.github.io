@@ -3,7 +3,6 @@ layout: archive
 permalink: /columns/
 title: "Columns"
 author_profile: true
-taxonomy: categories
 ---
 
 ## Mijn laatste vijf columns
@@ -11,13 +10,12 @@ taxonomy: categories
 {% for post in site.posts limit:5 %}
 <h3><a href="{{post.url}}">{{post.title}}</a> ({%- include date-nl.html date=post.date -%})</h3>
 
-{{post.excerpt}} <a href="{{post.url}}">(lees verder)</a>
-
+{{- post.excerpt -}} <small><a href="{{post.url}}">(lees verder)</a></small>
 {% endfor %}
 
 ## Alle columns per categorie
 
-{% assign categories = site.data.taxonomy['categories'] %}
-{% for category in categories %}
-* **[{{category.title}}]({{site.categories[category].url}})**
-{% endfor %}
+* **[De coronacrisis]({{site.categories['Corona'].url}})**
+* **[Het academisch bedrijf]({{site.categories['Academisch-bedrijf'].url}})**
+* **[Geboorte & dood]({{site.categories['Geboorte-dood'].url}})**
+* **[Van alles en nog wat]({{site.categories['Alles-nogwat'].url}})**
