@@ -21,5 +21,3 @@ Bekijk alle columns hier per categorie:
     <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
 {% endfor %}
 </ul>
-
-{% endfor %}
